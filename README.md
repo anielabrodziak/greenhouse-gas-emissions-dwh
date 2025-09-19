@@ -8,9 +8,9 @@ Dane pochodzą ze strony https://www.gapminder.org/. Dane zostały połączone i
 ---
 
 ## Struktura repozytorium
-- `schema.sql` – definicja bazy, schematów oraz tabel wymiarów i faktu  
-- `procedures.sql` – procedury ETL ładujące dane ze stagingu do wymiarów i faktu  
-- `load.sql` – skrypt wywołujący procedury w odpowiedniej kolejności (najpierw wymiary, potem fakt)  
+- [`schema.sql`](schema.sql) – definicja bazy, schematów oraz tabel wymiarów i faktu  
+- [`procedures.sql`](procedures.sql) – procedury ETL ładujące dane ze stagingu do wymiarów i faktu  
+- [`load.sql`](load.sql) – skrypt wywołujący procedury w odpowiedniej kolejności (najpierw wymiary, potem fakt)  
 
 ---
 
