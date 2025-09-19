@@ -1,7 +1,7 @@
 # Hurtownia danych – Emisje gazów cieplarnianych
 
 ## Opis projektu
-Projekt polegał na zaprojektowaniu i implementacji **hurtowni danych** dotyczącej emisji gazów cieplarnianych (CO₂, CH₄, N₂O).  
+- Projekt polegał na zaprojektowaniu i implementacji **hurtowni danych** dotyczącej emisji gazów cieplarnianych (CO₂, CH₄, N₂O).  
 Model został przygotowany w oparciu o metodologię Ralpha Kimballa (model wymiarowo-faktowy).  
 Celem było umożliwienie analizy emisji według krajów, źródeł emisji oraz czasu.
 Dane pochodzą ze strony https://www.gapminder.org/. 
